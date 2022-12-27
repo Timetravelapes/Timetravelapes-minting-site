@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/bluepill": "pages/bluepill.html",
+  "/cyanpill": "pages/cyanpill.html",
+  "/goldpill": "pages/goldpill.html",
+  "/greenpill": "pages/greenpill.html",
+  "/": "pages/index.html",
+  "/lemonpill": "pages/lemonpill.html",
+  "/mintpill": "pages/mintpill.html",
+  "/redpill": "pages/redpill.html",
+  "/rosepill": "pages/rosepill.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
